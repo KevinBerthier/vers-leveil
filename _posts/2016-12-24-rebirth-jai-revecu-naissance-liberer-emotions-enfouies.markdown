@@ -4,7 +4,7 @@ title:  "Rebirth : j’ai revécu ma naissance pour libérer mes émotions enfou
 date:   2016-12-24
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WnnrLJ3DSg0" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube.com/embed/WnnrLJ3DSg0" frameborder="0" allowfullscreen></iframe>
 
 Le rebirth est une technique de respiration consciente qui permet de libérer les blocages émotionnels. Plus particulièrement ceux de la période prénatale et petite enfance. A ces périodes les chocs émotionnels sont inconscients, il est donc difficile de s’en libérer par des thérapies basées sur la parole.
 
@@ -24,4 +24,4 @@ Au bout d’un moment j’ai commencé à me calmer. La respiration s’est rale
 
 Et voici un petit compte rendu video un mois après la séance de rebirth
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EPNQK8nO9Dc" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube.com/embed/EPNQK8nO9Dc" frameborder="0" allowfullscreen></iframe>
